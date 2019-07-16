@@ -1,0 +1,1 @@
+<#assign user={"name":"唐僧","age":12,"address":"长安"}/>
